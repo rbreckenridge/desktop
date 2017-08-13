@@ -6,3 +6,5 @@
 * i3blocks
 * rofi
 * feh
+* mate-terminal
+
