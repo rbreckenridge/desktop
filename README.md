@@ -5,7 +5,7 @@
     ```
     $ sudo apt install i3 i3blocks
     ```
-3. Open `Session and Startup` and go to the `Session` tab.
+3. In settings, open `Session and Startup` and go to the `Session` tab.
 
 
 4. For `xfwm4` and `xfdesktop`, change `Immediately` to `Never`. These processes will be replaced by i3.
